@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d111949.chunk.css",
+    "main.css": "/static/css/main.b50efdd9.chunk.css",
     "main.js": "/static/js/main.521bdced.chunk.js",
     "main.js.map": "/static/js/main.521bdced.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.489240d0.js",
@@ -10,7 +10,7 @@
     "static/js/3.f5f9a8d4.chunk.js": "/static/js/3.f5f9a8d4.chunk.js",
     "static/js/3.f5f9a8d4.chunk.js.map": "/static/js/3.f5f9a8d4.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.6d111949.chunk.css.map": "/static/css/main.6d111949.chunk.css.map",
+    "static/css/main.b50efdd9.chunk.css.map": "/static/css/main.b50efdd9.chunk.css.map",
     "static/js/2.ac3affe4.chunk.js.LICENSE.txt": "/static/js/2.ac3affe4.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/static/media/data9.a054dbd0.jpg",
     "static/media/SearchDetail.scss": "/static/media/Category_Ryan_210303.1884aecd.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.489240d0.js",
     "static/js/2.ac3affe4.chunk.js",
-    "static/css/main.6d111949.chunk.css",
+    "static/css/main.b50efdd9.chunk.css",
     "static/js/main.521bdced.chunk.js"
   ]
 }
